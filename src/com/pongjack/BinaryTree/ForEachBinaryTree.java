@@ -5,7 +5,7 @@ import java.util.Stack;
 
 /**
  * 深度优先搜索
- * 分别实现递归，非递归的前中后序遍历
+ * 分别实现递归，非递归的前中后序遍历，其中非递归写的是错误的，马上改正
  * @param <E>
  */
 public  class ForEachBinaryTree<E> {
